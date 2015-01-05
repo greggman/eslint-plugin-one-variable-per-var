@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-one-variable-per-var",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Require one variable per var",
   "main": "index.js",
   "directories": {
