@@ -2,7 +2,7 @@
 
 # eslint-plugin-one-variable-per-var
 
-<a href="http://eslint.org/">ESLint</a> rule for enforcing one variable per var statement
+<a href="http://eslint.org/">ESLint</a> rule for enforcing one variable per var statement.
 
 ## Why Use It
 
